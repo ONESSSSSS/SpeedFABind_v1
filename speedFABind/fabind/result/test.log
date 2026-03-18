@@ -1,0 +1,2462 @@
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 4.833920955657959
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.634896516799927
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 7.301016092300415
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 7.451956748962402
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 5.851478338241577
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 5.8846728801727295
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 5.949809789657593
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 5.881182909011841
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.2485339641571045
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.157150983810425
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.100240230560303
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.000072002410889
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.102906703948975
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 15.580965757369995
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 5.493664979934692
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 5.3582844734191895
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.779892206192017
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.671525478363037
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 12.945968866348267
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 21.832891702651978
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.791283369064331
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 7.44418740272522
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.777703285217285
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.5391762256622314
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 6.997437238693237
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.9887115955352783
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 1.0610198974609375
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 1.1342546939849854
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 5.146455526351929
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 5.094541072845459
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 5.08080792427063
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 8.168746948242188
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.4748828411102295
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 8.173008680343628
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.18434572219848633
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.292621374130249
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.3695547580718994
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 8.472153425216675
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 14.81994104385376
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 15.586655616760254
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 15.78083610534668
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.23871135711669922
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 10.896303176879883
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.26674532890319824
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 10.916678667068481
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 10.830382347106934
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 10.478461265563965
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 11.073452949523926
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.283815860748291
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.23815441131591797
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.22500014305114746
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.3748602867126465
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.23238492012023926
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.24902939796447754
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.2561502456665039
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.4047384262084961
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.2868354320526123
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.2671027183532715
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.27437376976013184
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.25249695777893066
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.2379612922668457
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.23973464965820312
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 2.913658380508423
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 11.547317743301392
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.39737820625305176
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 10.682507514953613
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 11.455673933029175
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 16.083465337753296
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 181.96743893623352
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 97.12708330154419
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 99.32696628570557
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 19.092541933059692
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 19.298872709274292
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 13.131242752075195
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 18.45106816291809
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 18.163434743881226
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 12.629355430603027
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 16.092331647872925
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 4.668501377105713
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 0.6312122344970703
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Begin inference
+End test, time spent: 13.147913217544556
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 13.784372091293335
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 12.776975870132446
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 12.706722974777222
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 12.634335041046143
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 12.670987606048584
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 12.88434910774231
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 12.654679775238037
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 4
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 12.823083400726318
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 108.50868964195251
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 34.532427072525024
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 109.29785919189453
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 73.50948524475098
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 4 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 72.6786117553711
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 8 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 43.64693593978882
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 16 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 29.45223569869995
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 22.80886197090149
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 8 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 65.87964677810669
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 8 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 62.442440032958984
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 8 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 32
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 56.34239172935486
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 46.58159017562866
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 46.35140681266785
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 16 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 76.39881086349487
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 55.25939226150513
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 8 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 123.04405879974365
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 8 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 132.5606722831726
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 16 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 86.10444593429565
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 68.49398040771484
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 6.372396945953369
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 8 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 116.15613031387329
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 5.956195116043091
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 34.819756746292114
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 67.06533718109131
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 16 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 92.35514855384827
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 8 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 133.0699405670166
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 39630459
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 1.143259048461914
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 37976679
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36288123
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36288123
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36288123
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 1.3906195163726807
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36288123
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 1.6523911952972412
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 2.6989223957061768
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 1.025954008102417
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 0.7205197811126709
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 0.7968826293945312
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 0.5236761569976807
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 0.8086087703704834
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 0.5859394073486328
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 0.3759956359863281
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 0.3532416820526123
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 38.938201904296875
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 37941783
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 37941783
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 0.6158928871154785
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 35.3161404132843
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 36.91135907173157
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 8 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 87.75234842300415
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 16 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 52.178550481796265
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 28.215636730194092
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 28.196176767349243
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 32 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 37.16931200027466
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 16 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 52.618541955947876
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 16 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 51.231571197509766
+Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Working directory is /home/2023/23xfy/FABind/FABind/fabind
+fabind_inference.py --ckpt /home/2023/23xfy/FABind/FABind/ckpt/best_model.bin --batch_size 64 --seed 128 --test-gumbel-soft --redocking --post-optim --write-mol-to-file --sdf-output-path-post-optim /home/2023/23xfy/FABind/FABind/inference_examples/inference_output --index-csv /home/2023/23xfy/FABind/FABind/inference_examples/example.csv --preprocess-dir /home/2023/23xfy/FABind/FABind/inference_examples/temp_files --sdf-to-mol2
+data point: 64
+FABind
+Total trainable parameters: 36270615
+Begin inference
+End test, time spent: 27.816829442977905
